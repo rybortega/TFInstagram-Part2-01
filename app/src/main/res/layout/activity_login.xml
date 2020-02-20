@@ -36,7 +36,21 @@
         android:id="@+id/btnLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login" />
+        android:background="#C13584"
+        android:text="Login"
+        android:textColor="#FFFFFF" />
+    <Space
+        android:layout_width="0dp"
+        android:layout_height="5dp">
+    </Space>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FCAF45"
+        android:text="Sign Up"
+        android:textColor="#FFFFFF" />
 
 </LinearLayout>
 
