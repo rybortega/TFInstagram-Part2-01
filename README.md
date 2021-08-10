@@ -26,10 +26,6 @@ The following **optional** features are implemented:
 - [ ] User can like a post and see number of likes for each post in the post details screen.
 - [ ] Run your app on your phone and use a custom camera view
 
-The following **additional** features are implemented:
-
-- [x] This doesn't improve functionality, but I did change the color styles to match that of the current Instagram!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
